@@ -1,0 +1,76 @@
+    1  git --version
+    2  clear
+    3  git --version
+    4  pwd
+    5  ls
+    6  ls -a
+    7  cd Desktop
+    8  cd raptor
+    9  cd ..
+   10  cd Desktop
+   11  mkdir fullstackdev
+   12  ls
+   13  cd fullstackdev
+   14  touch full_stack.txt
+   15  ls
+   16  cat full_stack.txt
+   17  echo "full stack developer" > full_stack.txt
+   18  cat full_stack.txt
+   19  echo "HTML and CSS" full_stack.txt
+   20  cat full_stack.txt
+   21  echo "HTML and CSS" > full_stack.txt
+   22  cat full_stack.txt
+   23  echo "java script" >> full_stack.txt
+   24  cat full_stack.txt
+   25  gedit full_stack.txt
+   26  nano full_stack.txt
+   27  nano data.txt
+   28  rm --help
+   29  ls
+   30  rm -f data.txt
+   31  mkdit git
+   32  mkdir git
+   33  ls
+   34  git init
+   35  git status
+   36  git add full_stack.txt
+   37  git status
+   38  git commit -m "first commit"
+   39  git config --glodal user.email 'charishmachowdary99@gmail.com'
+   40  git config --glodal user.name 'charishma'
+   41  git config --glodal user.email 
+   42  git config --global user.email 'charishmachowdary99@gmail.com'
+   43  git config --global user.name 'charishma'
+   44  git config --global user.email 
+   45  git config --global user.name
+   46  git commit -m "first commit"
+   47  nano full_stack.txt
+   48  git status
+   49  git add full_stack.txt
+   50  git commit -m "second commit"
+   51  git log
+   52  mkdir full_stack
+   53  ls
+   54  git remote -help
+   55  git remote add full_stack http ://github.com/charishmachowdary/FULL_STACK
+   56  git remote show
+   57  git remote show
+   58  git remote add full_stack http://github.com/charishmachowdary/FULL_STACK
+   59  git remote show
+   60  git remote -v
+   61  git pull full_stack master
+   62  git push -u full_stack
+   63  git push --set-upstream full_stack master
+   64  chowdary@26
+   65  git push --set-upstream full_stack master
+   66  $ history
+   67  $ git push --set-upstream full+stack master
+   68  $ git push --set -upstream full_stack master
+   69  2~$ git push -f full_stack
+   70  git push -u full_stack
+   71  $ git push --set -upstream full_stack master
+   72  2~$ git push -f full_stack
+   73  $ git push --set -upstream full_stack master
+   74  2~$ git push -f full_stack
+   75  history 103 >gitcommands.txt
+   76  history 103 >gitcommands.txt
